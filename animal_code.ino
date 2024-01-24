@@ -11,11 +11,11 @@
 #include "MAX30100_PulseOximeter.h"
 #include <UniversalTelegramBot.h>
 
-#define IO_USERNAME  "jarvisonline"
-#define IO_KEY       "aio_nuZE21Fg2VEsMHN1Xrvt3vrRXjNF"
+#define IO_USERNAME  "############"
+#define IO_KEY       "#####################################"
 
-#define WIFI_SSID "Vivo Y20 T"
-#define WIFI_PASS "Amanbhai"
+#define WIFI_SSID "#######"
+#define WIFI_PASS "###########"
 
 #define DHTPIN 5
 #define DHTTYPE DHT11
